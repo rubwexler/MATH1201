@@ -1,4 +1,4 @@
-<h1 align="center">MATH1201: Algebra and Trigonometry</h1>
+<h1 align="center">MATH1201: College Algebra and Trigonometry</h1>
 <h2 align="center">University of the People</h2>
 
 This course provides a solid grounding in algebra, trigonometry, and analytic geometry in preparation for further mathematical studies. The course includes an extensive study of linear, quadratic, and rational functions. It also contains an introduction to exponential and logarithmic functions and circles. Finally, the topic of systems of linear equations is covered. 
