@@ -8,13 +8,16 @@ This course provides a solid grounding in algebra, trigonometry, and analytic ge
 Abramson, J. (2017). Algebra and trigonometry. OpenStax, TX: Rice University. Retrieved from https://openstax.org/details/books/algebra-and-trigonometry 
 <br />
 
-<strong>Tutorials</strong>
+University of the People Preparation Materials for this course:
+- https://www.uopeople.edu/prepare-for-university/college-algebra-math-1201-learning-materials/ 
+
+<strong>Helpful Tutorials</strong>
 - mathispower4u: http://www.mathispower4u.com/ 
 - Professor Leonard’s lectures: https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP 
 - Khan academy pre-calculus course: https://www.khanacademy.org/math/precalculus 
 
 If you are weak in your math fundamentals, I would recommend taking an introductory algebra, intermediate algebra, or a college algebra
-course from mathhelp.com .  The lectures are great and they give you many practice problems and step by step examples. It's designed for
+course from <strong>mathhelp.com</strong> . The lectures are great and they give you many practice problems and step by step examples. It's designed for
 students learning completely on their own (which is why a lot of homeschool students use this website).
 <br />
 
