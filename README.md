@@ -7,9 +7,7 @@ This course provides a solid grounding in algebra, trigonometry, and analytic ge
 <strong>Required Textbook</strong> <br />
 Abramson, J. (2017). Algebra and trigonometry. OpenStax, TX: Rice University. Retrieved from https://openstax.org/details/books/algebra-and-trigonometry 
 <br />
-
-University of the People Preparation Materials for this course:
-- https://www.uopeople.edu/prepare-for-university/college-algebra-math-1201-learning-materials/ 
+University of the People Preparation Materials for this course: https://www.uopeople.edu/prepare-for-university/college-algebra-math-1201-learning-materials/ 
 
 <strong>Helpful Tutorials</strong>
 - mathispower4u: http://www.mathispower4u.com/ 
